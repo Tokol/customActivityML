@@ -28,7 +28,7 @@ import pickle
 # ==========================
 st.set_page_config(
     page_title="Activity Recognition: Feature Extraction & ML Comparison",
-    page_icon="assets/icon.png",
+    page_icon="assets/favicon.ico",
     layout="wide",
     initial_sidebar_state="expanded"
 )
